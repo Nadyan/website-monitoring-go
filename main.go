@@ -20,7 +20,11 @@ func main() {
 }
 
 func get_option_menu() int {
-	fmt.Println("\n1 - Init website scan")
+	fmt.Println("\n\nWelcome to the website status checker!")
+	fmt.Println("The websites listed in the file 'files/websites.txt' will be checked.")
+	fmt.Println("Choose an option below to start:")
+
+	fmt.Println("\n1 - Init website check")
 	fmt.Println("2 - Show logs")
 	fmt.Println("3 - Exit")
 
