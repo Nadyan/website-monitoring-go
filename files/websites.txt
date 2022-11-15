@@ -1,3 +1,4 @@
 https://www.google.com
 https://www.alura.com.br
 https://go.dev/
+https://random-status-code.herokuapp.com

@@ -1,0 +1,12 @@
+2022-11-15 16:31:13.3015517 -0300 -03 https://www.google.com -> Online
+2022-11-15 16:31:13.7456039 -0300 -03 https://www.alura.com.br -> Online
+2022-11-15 16:31:14.1776093 -0300 -03 https://go.dev/ -> Online
+2022-11-15 16:31:14.7809865 -0300 -03 https://random-status-code.herokuapp.com -> Offline
+2022-11-15 16:38:47.7308259 -0300 -03 https://www.google.com -> Online
+2022-11-15 16:38:47.9883489 -0300 -03 https://www.alura.com.br -> Online
+2022-11-15 16:38:48.4726194 -0300 -03 https://go.dev/ -> Online
+2022-11-15 16:38:49.075848 -0300 -03 https://random-status-code.herokuapp.com -> Offline
+2022-11-15 16:40:01.1748136 -0300 -03 https://www.google.com -> Online
+2022-11-15 16:40:01.3510759 -0300 -03 https://www.alura.com.br -> Online
+2022-11-15 16:40:01.6670393 -0300 -03 https://go.dev/ -> Online
+2022-11-15 16:40:02.2559186 -0300 -03 https://random-status-code.herokuapp.com -> Offline
